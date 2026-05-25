@@ -1,6 +1,10 @@
 # 📘 Ngaji Sore Dashboard — Setup Guide
 > Next.js 15 + TypeScript + Tailwind + Google Sheets API → Deploy ke Vercel
 
+<img width="219" height="364" alt="image" src="https://github.com/user-attachments/assets/72148ecc-66bb-43c8-8383-60d93adc998d" /> <img width="166" height="364" alt="image" src="https://github.com/user-attachments/assets/6b98efd4-8d8a-4723-aa20-4b9af2e7ce84" /> <img width="486" height="364" alt="image" src="https://github.com/user-attachments/assets/960620e5-a202-490d-9399-c56ebab1bc6d" />
+
+
+
 ---
 
 ## LANGKAH 1 — Siapkan Google Sheet
